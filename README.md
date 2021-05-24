@@ -30,7 +30,7 @@ Distribución geográfica : puede implementar aplicaciones y datos en centros de
 
 Recuperación ante desastres : al aprovechar los servicios de respaldo basados en la nube, la replicación de datos y la distribución geográfica, puede implementar sus aplicaciones con la confianza que proviene de saber que sus datos están seguros en caso de desastre.
 
-#IaaS (Infraestructura como un servicio)
+# IaaS (Infraestructura como un servicio)
 El servicio en la nube más flexible. Usted configura y administra el hardware para su aplicación.
 # Ventajas
 Sin CapEx . Los usuarios no tienen costos iniciales.
@@ -63,7 +63,8 @@ Beneficios de la nube . Los usuarios pueden aprovechar las habilidades y la expe
 Productividad . Los usuarios pueden centrarse únicamente en el desarrollo de aplicaciones, porque el proveedor de la nube se encarga de la gestión de la plataforma. Trabajar con equipos distribuidos como servicios es más fácil porque se accede a la plataforma a través de Internet. Puede hacer que la plataforma esté disponible globalmente más fácilmente.
 
 # Desventajas
-Limitaciones de la plataforma . Puede haber algunas limitaciones en una plataforma en la nube que podrían afectar la forma en que se ejecuta una aplicación. aS(Software como servicio)
+Limitaciones de la plataforma . Puede haber algunas limitaciones en una plataforma en la nube que podrían afectar la forma en que se ejecuta una aplicación. 
+# SaaS(Software como servicio)
 Modelo de precios de pago por uso. Los usuarios pagan por el software que utilizan en un modelo de suscripción.
 # Ventajas
 Sin CapEx . Los usuarios no tienen costos iniciales.
